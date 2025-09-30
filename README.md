@@ -26,6 +26,12 @@
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-229BFF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="illustrator" src="https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=fff" />&nbsp;
 
+## Ecosystem
+
+<img alt="jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
+<img alt="confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=fff" />&nbsp;
+<img alt="bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=fff" />&nbsp;
+
 ## 📬 Как со мной связаться:
 
 • Telegram: [@iamgromov](https://t.me/iamgromov)
