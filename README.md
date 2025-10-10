@@ -34,6 +34,6 @@
 
 ## 📬 Как со мной связаться:
 
-• Telegram: [@iamgromov](https://t.me/iamgromov)
+• Telegram: <a href="https://t.me/iamgromov" target="_blank" rel="noopener noreferrer">@iamgromov</a>
 
-• Email: iamgromov@gmail.com
+• Email: <a href="mailto:iamgromov@gmail.com" target="_blank" rel="noopener noreferrer">iamgromov@gmail.com</a>
