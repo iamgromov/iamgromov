@@ -8,6 +8,7 @@
 
 [<img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />](https://react.dev/)&nbsp;
 [<img alt="redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=fff" />](https://redux.js.org/)&nbsp;
+[<img alt="tanstack query" src="https://img.shields.io/badge/-TanStack%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=fff" />](https://tanstack.com/query/latest)&nbsp;
 [<img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />](https://www.typescriptlang.org/)&nbsp;
 [<img alt="vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=fff" />](https://vitejs.dev/)&nbsp;
 [<img alt="react-router" src="https://img.shields.io/badge/react router-F54250.svg?&style=for-the-badge&logo=react-router&logoColor=fff" />](https://reactrouter.com/)&nbsp;
@@ -20,17 +21,17 @@
 [<img alt="jest" src="https://img.shields.io/badge/jest-99425B.svg?&style=for-the-badge&logo=jest&logoColor=fff" />](https://jestjs.io/)&nbsp;
 ## Tools:
 
-<img alt="vs code" src="https://img.shields.io/badge/vs code-24AEF4.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
-<img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
-<img alt="figma" src="https://img.shields.io/badge/figma-A259FF.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
-<img alt="photoshop" src="https://img.shields.io/badge/photoshop-229BFF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
-<img alt="illustrator" src="https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=fff" />&nbsp;
+[<img alt="vs code" src="https://img.shields.io/badge/vs code-24AEF4.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />](https://www.youtube.com/watch?v=K5zP7eQltDE)&nbsp;
+[<img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />](https://www.youtube.com/watch?v=K5zP7eQltDE)&nbsp;
+[<img alt="figma" src="https://img.shields.io/badge/figma-A259FF.svg?&style=for-the-badge&logo=figma&logoColor=fff" />](https://www.youtube.com/watch?v=K5zP7eQltDE)&nbsp;
+[<img alt="photoshop" src="https://img.shields.io/badge/photoshop-229BFF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />](https://www.youtube.com/watch?v=K5zP7eQltDE)&nbsp;
+[<img alt="illustrator" src="https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=fff" />](https://www.youtube.com/watch?v=K5zP7eQltDE)&nbsp;
 
 ## Ecosystem:
 
-<img alt="jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
-<img alt="confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=fff" />&nbsp;
-<img alt="bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=fff" />&nbsp;
+[<img alt="jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=fff" />](https://www.youtube.com/watch?v=K5zP7eQltDE)&nbsp;
+[<img alt="confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=fff" /](https://www.youtube.com/watch?v=K5zP7eQltDE)&nbsp;
+[<img alt="bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=fff" />](https://www.youtube.com/watch?v=K5zP7eQltDE)&nbsp;
 
 ## 📬 Как со мной связаться:
 
