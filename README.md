@@ -30,7 +30,7 @@
 ## Ecosystem:
 
 [<img alt="jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=fff" />](https://www.youtube.com/watch?v=K5zP7eQltDE)&nbsp;
-[<img alt="confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=fff" /](https://www.youtube.com/watch?v=K5zP7eQltDE)&nbsp;
+[<img alt="confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=fff" />](https://www.youtube.com/watch?v=K5zP7eQltDE)&nbsp;
 [<img alt="bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=fff" />](https://www.youtube.com/watch?v=K5zP7eQltDE)&nbsp;
 
 ## 📬 Как со мной связаться:
